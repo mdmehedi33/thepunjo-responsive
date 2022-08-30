@@ -1,0 +1,736 @@
+@media(max-width:575px) {
+    .navbar-light .navbar-toggler span {
+        color: #fff;
+    }
+    
+    .nav-link {
+        padding: 5px 0;
+        margin: 0;
+    }
+    .navbar-nav {
+        align-items: center;
+        border: 2px dashed #fff;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        bottom: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .search_fild {
+        top: 105%;
+        right: 30%;
+    }
+    .search_fild form input {
+        padding: 2px 0px 2px 3px;
+    }
+    .search {
+        right: 2px;
+        padding: 1px 6px;
+    }
+    .banner_content {
+        margin: 40px 30px 0 3px;
+    }
+    .banner_content h2 {
+        font-size: 30px;
+    }
+    .banner_content h1 {
+        font-size: 30px;
+    }
+    .owl-nav .owl-prev span {
+        left: 0px;
+        font-size: 35px;
+    }
+    .owl-nav .owl-next span {
+        right: 0px;
+        font-size: 35px;
+    }
+    .btn_portfolio {
+        padding: 5px 8px;
+        margin-left: 5px;
+    }
+    .btn_started {
+        padding: 5px 15px;
+    }
+    
+    .about_me {
+        margin: 30px 0;
+    }
+    .about {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .about h1 {
+        font-size: 30px;
+        padding: 10px 0;
+        margin-bottom: 20px;
+    }
+    .about p {
+        margin: 5px 0;
+    }
+    .parsent {
+        right: -20px;
+    }
+    .bar {
+        width: 75%;
+    }
+    .MY_statistic {
+        margin: 0px 0;
+    }
+    .height {
+        margin-top: 25px;
+    }
+    .MY_service h2 {
+        font-size: 30px;
+    }
+    .MY_statistic h1 {
+        font-size: 35px;
+    }
+    .MY_statistic span {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .statistic_one::before {
+        display: none;
+    }
+    .statistic_two::before {
+        display: none;
+    }
+    .my_work{
+        margin-top: 26px;
+    }
+    .my_work ul {
+        margin: 0px 0 25px 0;
+    }
+    .photo {
+        text-align: center;
+    }
+    .slaiter_to {
+        margin: 40px 0;
+    }
+    .just_content h1 {
+        font-size: 30px;
+    }
+    .just_content span {
+        width: 50%;
+    }
+    .story_content {
+        margin-top: 45px;
+        text-align: center;
+    }
+    .story_content span {
+        width: 95%;
+        margin: auto;
+    }
+    .story_content p {
+        margin: 20px 0;
+    }
+    .slaiter_feedback {
+        margin: 50px 0 60px 0;
+    }
+    .feedback_content h1 {
+        font-size: 35px;
+    }
+    .feedback_content span {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+    .latest_content {
+        margin-top: 100px;
+        text-align: center;
+    }
+    .latest_content h1 {
+        font-size: 35px;
+    }
+    .latest_content span {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+    .small_text {
+        display: contents;
+    }
+    .small_text h5 {
+        margin: 8px 0;
+    }
+    .small_text h6 {
+        margin: 5px 0px;
+    }
+    .small_t {
+        display: contents;
+    }
+    .get_in_touch {
+        margin: 65px 0;
+    }
+    .touch_content h1 {
+        font-size: 35px;
+    }
+    .touch_content span {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+    .touch_content p {
+        
+        text-align: center;
+    }
+    .form_tag {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .form_contact input {
+        width: 80%;
+    }
+    .massage textarea {
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    .btn_massage {
+        padding: 5px 15px;
+    }
+    .map_content {
+        width: 41%;
+        padding: 10px;
+        right: 10%;
+    }
+    .follow_ME {
+        margin: 45px 0;
+    }
+    .follow_content h1 {
+        font-size: 33px;
+    }
+    
+}
+@media(max-width:767px){
+    .navbar-light .navbar-toggler span {
+        color: #fff;
+    }
+    
+    .nav-link {
+        padding: 5px 0;
+        margin: 0;
+    }
+    .navbar-nav {
+        align-items: center;
+        border: 2px dashed #fff;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        bottom: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .search_fild {
+        top: 105%;
+        right: 30%;
+    }
+    .search_fild form input {
+        padding: 2px 0px 2px 3px;
+    }
+    .search {
+        right: 2px;
+        padding: 1px 6px;
+    }
+    .banner_content {
+        margin: 100px 30px 0 3px;
+    }
+    .banner_content h2 {
+        font-size: 30px;
+    }
+    .banner_content h1 {
+        font-size: 30px;
+    }
+    .owl-nav .owl-prev span {
+        left: 50px;
+        font-size: 40px;
+    }
+    .owl-nav .owl-next span {
+        right: -10px;
+        font-size: 40px;
+    }
+    .btn_portfolio {
+        padding: 5px 8px;
+        margin-left: 5px;
+    }
+    .btn_started {
+        padding: 5px 15px;
+    }
+    .about h1::before {
+        width: 45%;
+    }
+    .about h1 {
+        font-size: 40px;
+    }
+    .about h1::after {
+        width: 6%;
+    }
+    .about {
+        margin-bottom: 35px;
+    }
+    .about_me {
+        margin: 40px 0;
+    }
+    .MY_service span {
+        width: 55%;
+        margin-bottom: 50px;
+    }
+    .MY_service {
+        margin-bottom: 20px;
+    }
+    .MY_statistic {
+        margin: 35px 0;
+    }
+    .MY_statistic span {
+        width: 60%;
+        margin-bottom: 40px;
+    }
+    .height {
+        margin-top: 45px;
+    }
+    .statistic_one::before {
+        display: none;
+    }
+    .statistic_two::before {
+        display: none;
+    }
+    .photo:hover .icon_m {
+        height: 35px;
+        width: 35px;
+        font-size: 15px;
+    margin: 5px;
+    }
+    .my_work ul {
+        margin: 50px 0;
+    }
+    .text h3 {
+        font-size: 14px;
+    }
+    .text p {
+        font-size: 12px;
+    }
+    .text {
+        padding: 7px;
+    }
+    .just_content span {
+        width: 65%;
+    }
+    .slaiter_content {
+        padding: 5px 16px;
+    }
+    .slaiter_to {
+        margin: 35px 0;
+    }
+    .story_content {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .story_content span {
+        width: 100%;
+        margin: auto;
+    }
+    .story_content p {
+        margin: 22px 0;
+    }
+    .slaiter_feedback {
+        margin: 60px 0;
+    }
+    .feedback_content span {
+        width: 80%;
+        margin-bottom: 40px;
+    }
+    .latest_content {
+        margin-top: 100px;
+    }
+    .latest_content span {
+        width: 65%;
+        margin-bottom: 70px;
+    }
+    .small_text {
+        text-align: center;
+        display: contents;
+    }
+    .small_text h5 {
+        margin-bottom: 8px;
+    }
+    .small_text h6 {
+        margin: 8px 0px;
+    }
+    .get_in_touch {
+        margin: 60px 0;
+    }
+    .touch_content span {
+        width: 60%;
+        margin-bottom: 50px;
+    }
+    .touch_content p {
+        padding: 0px 0px;
+    }
+    .form_tag {
+        margin-top: 40px;
+    }
+    .map_content {
+        width: 30%;
+        padding: 11px 8px;
+    }
+    .follow_ME {
+        margin: 60px 0;
+    }
+    .follow_content span {
+        width: 55%;
+        margin-bottom: 60px;
+    }
+}
+@media(max-width:991px){
+    .navbar-light .navbar-toggler span {
+        color: #fff;
+    }
+    
+    .nav-link {
+        padding: 5px 0;
+        margin: 0;
+    }
+    .navbar-nav {
+        align-items: center;
+        border: 2px dashed #fff;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        bottom: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .search_fild {
+        top: 105%;
+        right: 30%;
+    }
+    .search_fild form input {
+        padding: 2px 0px 2px 3px;
+    }
+    .search {
+        right: 2px;
+        padding: 1px 6px;
+    }
+    .navbar-light .navbar-toggler span {
+        color: #fff;
+    }
+    
+    .nav-link {
+        padding: 5px 0;
+        margin: 0;
+    }
+    .navbar-nav {
+        align-items: center;
+        border: 2px dashed #fff;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        bottom: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .search_fild {
+        top: 105%;
+        right: 30%;
+    }
+    .search_fild form input {
+        padding: 2px 0px 2px 3px;
+    }
+    .search {
+        padding: 1px 6px;
+    }
+    .banner_content h2 {
+        font-size: 40px;
+    }
+    .banner_content h1 {
+        font-size: 42px;
+    }
+    
+    .about {
+        margin-bottom: 30px;
+    }
+    .about_me {
+        margin: 50px 0;
+    }
+    .about h1 {
+        font-size: 40px;
+        padding: 5px 0;
+        margin-bottom: 20px;
+    }
+    .about p {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .progress_bar {
+        margin: 10px 0;
+    }
+    .progress_bar h5 {
+        font-size: 16px;
+    }
+    .icon {
+        height: 50px;
+        width: 50px;
+        font-size: 20px;
+    }
+    .service_item h3 {
+        font-size: 11px;
+        margin: 16px 0;
+    }
+    .service_item p {
+        font-size: 11px;
+    }
+    .service_item:hover::before {
+        border-width: 80px 80px 0 0;
+        background: #f39c1200;
+    }
+    .MY_statistic {
+        margin: 50px 0;
+    }
+    .MY_statistic {
+        margin: 30px 0;
+    }
+    .height {
+        margin-top: 80px;
+    }
+    .statistic_one::before {
+        right: -110px;
+    }
+    .statistic_two::before {
+        right: -110px;
+    }
+    .my_work ul {
+        margin: 50px 0;
+    }
+    .slaiter_to {
+        margin: 35px 0;
+    }
+    .slaiter_content {
+        padding: 35px 50px;
+    }
+    .slaiter_photo {
+        width: 100%;
+    }
+    .slaiter_p {
+        width: 100%;
+    }
+    .slaiter_c {
+        padding: 35px 50px;
+    }
+    .story_content h1 {
+        font-size: 25px;
+    }
+    .story_content span {
+        width: 95%;
+        margin-bottom: 20px;
+    }
+    .story_content p {
+        margin-bottom: 5px;
+        font-size: 13px;
+    }
+    .story_content {
+        margin-top: 15px;
+        padding: 0 10px;
+    }
+    .LIFE_CHANGING_STORY {
+        padding: 25px 0;
+    }
+    .slaiter_feedback {
+        margin: 50px 0;
+    }
+    .feedback_content span {
+        width: 65%;
+        margin-bottom: 60px;
+    }
+    .slaiter_three .owl-dots {
+        margin-top: 50px;
+    }
+    .latest_content {
+        margin-top: 100px;
+    }
+    .latest_content span {
+        width: 50%;
+        margin-bottom: 80px;
+    }
+    .small_text {
+        display: contents;
+        text-align: center;
+    }
+    .small_text h5 {
+        margin-bottom: 5px;
+    }
+    .small_text h6 {
+        margin: 9px 0px;
+    }
+    .get_in_touch {
+        margin: 60px 0;
+    }
+    .touch_content span {
+        width: 45%;
+        margin-bottom: 50px;
+    }
+    .form_tag {
+        margin-top: 35px;
+    }
+    .map_content {
+        width: 25%;
+        padding: 10px 12px;
+        right: 15%;
+    }
+    .follow_ME {
+        margin: 40px 0;
+    }
+}
+@media(max-width:1199px){
+    .banner_content h1 {
+        font-size: 55px;
+    }
+    .banner_content h1 {
+        font-size: 55px;
+    }
+    .banner_content {
+        margin: 60px 25px 0 0;
+    }
+    .sent_btn {
+        margin-top: 85px;
+    }
+    .about_me {
+        margin: 50px 0;
+    }
+    .about p {
+        margin: 10px 0;
+    }
+    .about h1 {
+        margin-bottom: 25px;
+    }
+    .about {
+        margin-bottom: 35px;
+    }
+    .service_item h3 {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    .icon {
+        height: 50px;
+        width: 50px;
+        font-size: 20px;
+    }
+    .MY_statistic {
+        margin: 50px 0;
+    }
+    .height {
+        margin-top: 80px;
+    }
+    .icon_s {
+        height: 70px;
+        width: 70px;
+        font-size: 30px;
+    }
+    .statistic_one::before {
+        right: -140px;
+    }
+    .statistic_two::before {
+        right: -140px;
+    }
+    .my_work ul {
+        margin: 60px 0;
+    }
+    .slaiter_content {
+        padding: 5px 10px;
+    }
+    .slaiter_content p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    .slaiter_content h3 {
+        font-size: 20px;
+    }
+    .slaiter_c {
+        padding: 5px 10px;
+    }
+    .slaiter_c h3 {
+        font-size: 20px;
+    }
+    .slaiter_to {
+        margin: 50px 0;
+    }
+    .story_content h1 {
+        font-size: 35px;
+    }
+    .story_content span {
+        width: 86%;
+        margin-bottom: 35px;
+    }
+    .story_content {
+        margin-top: 25px;
+        padding: 0px;
+    }
+    .slaiter_feedback {
+        margin: 70px 0;
+    }
+    .feedback_content span {
+        margin-bottom: 60px;
+    }
+    .latest_content {
+        margin-top: 150px;
+    }
+    .get_in_touch {
+        margin: 70px 0;
+    }
+    .map_content {
+        width: 23%;
+        padding: 25px 25px;
+    }
+    .follow_ME {
+        margin: 70px 0;
+    }
+}
+
+@media(max-width:1399px){
+    .sent_btn {
+        margin-top: 50px;
+    }
+    .about {
+        margin-bottom: 80px;
+    }
+    .MY_statistic {
+        margin: 60px 0;
+    }
+    .work_content span {
+        width: 30%;
+    }
+    .my_work ul {
+        margin: 65px 0;
+    }
+    .slaiter_to {
+        margin: 60px 0;
+    }
+    .slaiter_feedback {
+        margin: 80px 0;
+    }
+    .feedback_content span {
+        margin-bottom: 80px;
+    }
+    .get_in_touch {
+        margin: 80px 0;
+    }
+    .follow_ME {
+        margin: 80px 0;
+    }
+}
